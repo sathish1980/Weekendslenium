@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: PCK1.WeekendSeleniumBatch.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.036 s - in PCK1.WeekendSeleniumBatch.AppTest
