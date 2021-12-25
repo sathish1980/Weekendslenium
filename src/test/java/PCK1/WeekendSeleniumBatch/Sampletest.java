@@ -41,6 +41,10 @@ public void sub()
 		System.out.println(c);
 	}
 
+	public void voterid()
+	{
+		System.out.println("voterid");
+	}
 
 
 	public static void main(String[] args) {
