@@ -17,11 +17,19 @@ public class Sampletest {
 		System.out.println(c);
 	}
 
-public void sub()
+	public void sub()
 	{
 		int a=10;
 		int b=20;
 		int c=a-b;
+		System.out.println(c);
+	}
+	
+	public void div()
+	{
+		int a=10;
+		int b=20;
+		int c=a/b;
 		System.out.println(c);
 	}
 
@@ -32,6 +40,7 @@ public void sub()
 		Sampletest s = new Sampletest();
 		s.add();
 		s.mul();
+		s.div();
 	}
 
 }
